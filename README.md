@@ -7,7 +7,7 @@ Técnicas de programación orientada a objetos - Práctica de campo Semana 1.
 | Integrante | Nombre | Rol | Usuario de GitHub |
 | --- | --- | --- | --- |
 | 1 | Luis Alberto Medina Quispe | Líder del repositorio | lmedina2193 |
-| 2 | Pendiente de confirmar | Documentador | Pendiente |
+| 2 | Ostos Garcia Frank | Documentador | FrankOsg |
 | 3 | Pendiente de confirmar | Desarrollador de caso 1 - Estudiante | Pendiente |
 | 4 | Pendiente de confirmar | Desarrollador de caso 2 - Curso | Pendiente |
 
