@@ -1,0 +1,16 @@
+ENTRADAS (una por linea)
+1
+E002
+
+SALIDA REAL
+GRUPO 7 - SISTEMA DE GESTION DE ESTUDIANTES
+Datos en memoria: se pierden al cerrar. Notas de 0 a 20.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nombre completo:
+Entrada finalizada. Programa cerrado.

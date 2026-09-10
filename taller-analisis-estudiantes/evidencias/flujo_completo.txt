@@ -1,0 +1,168 @@
+ENTRADAS (una por linea)
+2
+1
+E001
+Ana Perez
+3
+e001
+5
+E001
+1
+e001
+Otra Persona
+4
+E001
+16
+4
+E001
+18
+5
+E001
+4
+E001
+abc
+4
+E001
+21
+3
+X999
+4
+X999
+4
+E001
+15,5
+2
+9
+0
+
+SALIDA REAL
+GRUPO 7 - SISTEMA DE GESTION DE ESTUDIANTES
+Datos en memoria: se pierden al cerrar. Notas de 0 a 20.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: No hay estudiantes registrados.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nombre completo: Estudiante registrado correctamente.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: E001 | Ana Perez | Notas: []
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: El estudiante no tiene calificaciones; no hay promedio.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nombre completo: Error: Ya existe un estudiante con el codigo E001.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nota (0 a 20): Calificacion registrada correctamente.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nota (0 a 20): Calificacion registrada correctamente.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Promedio: 17.00
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nota (0 a 20): Error: Ingresa una nota numerica; por ejemplo, 15.5.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nota (0 a 20): Error: La nota debe ser un numero entre 0 y 20.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: No existe un estudiante con ese codigo.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: No existe un estudiante con ese codigo.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Codigo: Nota (0 a 20): Calificacion registrada correctamente.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: E001 | Ana Perez | Notas: [16.0, 18.0, 15.5]
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Opcion invalida. Elige de 0 a 5.
+
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar por codigo
+4. Registrar calificacion
+5. Calcular promedio
+0. Salir
+Opcion: Programa finalizado.

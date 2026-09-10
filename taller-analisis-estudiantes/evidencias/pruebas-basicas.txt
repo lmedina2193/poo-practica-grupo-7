@@ -1,0 +1,27 @@
+Comando: java -cp target/classes;target/test-classes pe.upn.grupo7.PruebasBasicas
+OK: Listado inicial vacio
+OK: Registro y limpieza del nombre
+OK: Busqueda normaliza codigo
+OK: Codigo duplicado
+OK: Duplicado no altera registro
+OK: Busqueda inexistente
+OK: Nota de estudiante inexistente
+OK: Promedio de estudiante inexistente
+OK: Sin notas no hay promedio
+OK: Promedio cero valido
+OK: Promedio aritmetico con decimales
+OK: Nota invalida -1.0
+OK: Nota invalida 20.01
+OK: Nota invalida NaN
+OK: Nota invalida Infinity
+OK: Notas invalidas no alteran historial
+OK: Codigo vacio o nulo
+OK: Codigo vacio o nulo
+OK: Codigo vacio o nulo
+OK: Nombre vacio o nulo
+OK: Nombre vacio o nulo
+OK: Nombre vacio o nulo
+OK: Notas protegidas contra escritura externa
+OK: Listado conserva orden de registro
+OK: Listado protegido contra borrado externo
+RESULTADO: 25 comprobaciones correctas.
